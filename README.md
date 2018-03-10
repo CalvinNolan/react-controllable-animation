@@ -1,7 +1,7 @@
 ![react-controllable-animation logo](https://raw.githubusercontent.com/CalvinNolan/react-controllable-animation/master/react-controllable-animation-logo.png) 
 
 # react-controllable-animation
-Dynamic and controllable animations in React
+Dynamic and controllable animations in React. Check out the [react-controllable-animation-generator](https://github.com/CalvinNolan/react-controllable-animation-generator) to help create the required assets for an animation.
 
 ## Demo
 Coming soon
